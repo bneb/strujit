@@ -1,0 +1,11 @@
+# Binaries
+strujit_bin
+benchmark_*
+
+# Data files
+*.bin
+
+# Temporary files
+temp.ll
+.DS_Store
+*.json
